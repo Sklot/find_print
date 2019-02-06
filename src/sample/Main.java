@@ -16,7 +16,6 @@ public class Main {
 //        primaryStage.show();
 //    }
 
-
     public static void main(String[] args) {
 
 //        System.out.println(Settings.isCreate());
